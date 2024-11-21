@@ -9,4 +9,4 @@
 
 🔍 I am actively conducting research in **side-channel attacks** and **user authentication**.
 
-📫 Feel free to reach out to me at:: yeyingzhou10@gmail.com
+📫 Feel free to reach out to me at: yeyingzhou10@gmail.com
